@@ -1,0 +1,39 @@
+================================================================================
+🛡️ OPTIMIZED STEALTH TRAILING SYSTEM REPORT
+================================================================================
+
+🎯 OVERALL PERFORMANCE
+----------------------------------------
+Total Trades: 0
+Winning Trades: 0
+Win Rate: 0.0%
+Total PnL: $0.00
+Avg PnL: $0.00
+Profit Factor: 0.00
+
+🛡️ STEALTH SYSTEM EFFECTIVENESS
+----------------------------------------
+Stealth Effectiveness: 0.0%
+Stealth Activated Trades: 0
+Stealth Activation Rate: N/A (no trades)
+
+📊 DETAILED METRICS
+----------------------------------------
+Breakeven Achieved: 0
+Trailing Activated: 0
+Stealth Exits: 0
+Time Exits: 0
+Stop Loss Exits: 0
+Take Profit Exits: 0
+Stealth Wins: 0
+Stealth Losses: 0
+Total Stealth PnL: $0.00
+
+📈 TRADE DETAILS
+----------------------------------------
+
+💡 RECOMMENDATIONS
+----------------------------------------
+• No trades executed - check signal generation
+
+================================================================================

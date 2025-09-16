@@ -1,0 +1,29 @@
+# Environment files
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large directories (exclude from repo)
+reports/
+tests/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp

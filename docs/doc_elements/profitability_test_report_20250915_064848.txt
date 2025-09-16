@@ -1,0 +1,45 @@
+================================================================================
+📊 COMPREHENSIVE PROFITABILITY TEST REPORT
+================================================================================
+
+🎯 OVERALL PERFORMANCE
+----------------------------------------
+Total Trades: 8
+Total PnL: $92.78
+Win Rate: 62.5%
+Profit Factor: 1.64
+Max Drawdown: 1.0%
+Sharpe Ratio: 5.93
+
+📈 STRATEGY PERFORMANCE
+----------------------------------------
+
+STANDARD Strategy:
+  Trades: 8
+  Win Rate: 62.5%
+  Total PnL: $92.78
+  Avg PnL: $11.60
+  Profit Factor: 1.64
+  Avg Holding: 0.0h
+  Stealth Effectiveness: 0.0%
+
+🏆 TOP PERFORMING SYMBOLS
+----------------------------------------
+TSLA: $80.40
+AMZN: $29.25
+XLK: $-16.87
+
+📉 WORST PERFORMING SYMBOLS
+----------------------------------------
+XLK: $-16.87
+AMZN: $29.25
+TSLA: $80.40
+
+💡 RECOMMENDATIONS
+----------------------------------------
+1. ⚠️ Win rate 62.5% below target 70.0% - improve signal quality
+2. 🎯 Consider removing XLK from watchlist (PnL: $-16.87)
+3. 🎯 Focus on TSLA - strong performer (PnL: $80.40)
+4. 🛡️ Stealth trailing system effectiveness low - review parameters
+
+================================================================================

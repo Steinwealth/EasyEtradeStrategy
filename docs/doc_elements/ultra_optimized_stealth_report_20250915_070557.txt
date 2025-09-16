@@ -1,0 +1,228 @@
+================================================================================
+🚀 ULTRA-OPTIMIZED STEALTH TRAILING SYSTEM - PROFITABILITY FOCUS
+================================================================================
+
+🎯 OVERALL PERFORMANCE
+----------------------------------------
+Total Trades: 116
+Winning Trades: 59
+Win Rate: 50.9%
+Total PnL: $637.14
+Avg PnL: $5.49
+Profit Factor: 1.12
+Max Drawdown: 10.3%
+Sharpe Ratio: 0.03
+Avg Holding Period: 0.0 hours
+
+🛡️ STEALTH SYSTEM EFFECTIVENESS
+----------------------------------------
+Stealth Effectiveness: 50.9%
+Stealth Activated Trades: 116
+Stealth Activation Rate: 100.0%
+
+📊 DETAILED METRICS
+----------------------------------------
+Breakeven Achieved: 0
+Trailing Activated: 0
+Stealth Exits: 0
+Time Exits: 109
+Stop Loss Exits: 6
+Take Profit Exits: 1
+Stealth Wins: 0
+Stealth Losses: 0
+Total Stealth PnL: $0.00
+
+📈 TRADE DETAILS
+----------------------------------------
+
+XLV (standard):
+  PnL: $50.61 (0.6%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLV (standard):
+  PnL: $83.31 (1.4%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLP (standard):
+  PnL: $95.58 (1.2%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $-67.47 (-0.8%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $34.17 (0.4%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLP (standard):
+  PnL: $-63.24 (-0.7%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $50.22 (0.6%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLP (standard):
+  PnL: $10.03 (0.1%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $31.37 (0.4%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLP (standard):
+  PnL: $5.62 (0.1%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $43.26 (0.5%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $-71.85 (-0.9%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $35.45 (0.4%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+DOCU (standard):
+  PnL: $-42.06 (-0.8%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+SOXS (standard):
+  PnL: $-178.55 (-2.0%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+SOXS (standard):
+  PnL: $64.34 (0.9%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+ARKQ (standard):
+  PnL: $-38.87 (-0.7%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+XLE (standard):
+  PnL: $196.43 (2.8%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+SOXS (standard):
+  PnL: $-57.63 (-0.8%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+TSLA (standard):
+  PnL: $128.95 (1.9%)
+  Holding: 0.0h
+  Stealth Mode: inactive
+  Exit Reason: time_exit
+  Breakeven: No
+  Trailing: No
+  Decisions: Added to stealth system; Stealth decision: EXIT - Maximum holding time reached: 7.0 hours; Stealth exit: time_exit
+
+... and 96 more trades
+
+💡 RECOMMENDATIONS
+----------------------------------------
+• 🛡️ Stealth effectiveness below 70% - optimize parameters
+• 📊 Win rate below 70% - improve signal quality
+• 💰 Profit factor below 1.5 - improve risk/reward
+• ⏰ Holding period 0.0h outside target 2-3h range
+• 📉 Max drawdown 10.3% above 10% - improve risk management
+
+================================================================================
