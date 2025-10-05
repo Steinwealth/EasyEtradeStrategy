@@ -1,0 +1,119 @@
+symbol,leverage,category,underlying
+TQQQ,3x,index,Nasdaq-100
+SQQQ,3x,index,Nasdaq-100
+UPRO,3x,index,S&P 500
+SPXU,3x,index,S&P 500
+TMF,3x,bond,20+ Year Treasury
+TMV,3x,bond,20+ Year Treasury
+GDXU,3x,commodity,Gold Miners
+GDXD,3x,commodity,Gold Miners
+FNGU,3x,tech,FANG+ Stocks
+FNGD,3x,tech,FANG+ Stocks
+SPXL,3x,index,S&P 500
+SPXS,3x,index,S&P 500
+SOXL,3x,tech,Semiconductors
+SOXS,3x,tech,Semiconductors
+URTY,3x,index,Russell 2000
+SRTY,3x,index,Russell 2000
+TECL,3x,sector,Technology
+TECS,3x,sector,Technology
+UDOW,3x,index,Dow Jones
+SDOW,3x,index,Dow Jones
+TNA,3x,index,Small Cap Stocks
+TZA,3x,index,Small Cap Stocks
+FAS,3x,sector,Financials
+FAZ,3x,sector,Financials
+TYD,3x,bond,7-10 Year Treasury
+TYO,3x,bond,7-10 Year Treasury
+WEBL,3x,sector,Internet
+WEBS,3x,sector,Internet
+GUSH,3x,sector,Oil & Gas
+DRIP,3x,sector,Oil & Gas
+DRN,3x,sector,Real Estate
+DRV,3x,sector,Real Estate
+DFEN,3x,sector,Aerospace & Defense
+ERX,2x,sector,Energy
+ERY,2x,sector,Energy
+NUGT,2x,commodity,Gold Miners
+DUST,2x,commodity,Gold Miners
+UGL,2x,commodity,Gold
+GLL,2x,commodity,Gold
+JNUG,2x,commodity,Junior Gold Miners
+JDST,2x,commodity,Junior Gold Miners
+QLD,2x,index,Nasdaq-100
+QID,2x,index,Nasdaq-100
+QQQU,2x,index,Magnificent 7
+QQQD,2x,index,Magnificent 7
+SSO,2x,index,S&P 500
+SDS,2x,index,S&P 500
+SAA,2x,index,Small Cap
+SDD,2x,index,Small Cap
+DDM,2x,index,Dow Jones
+DXD,2x,index,Dow Jones
+UWM,2x,index,Russell 2000
+TWM,2x,index,Russell 2000
+ROM,2x,sector,Technology
+REW,2x,sector,Technology
+URE,2x,sector,Real Estate
+SRS,2x,sector,Real Estate
+MVV,2x,index,Mid Cap
+MZZ,2x,index,Mid Cap
+UBT,2x,bond,20+ Year Treasury
+TBT,2x,bond,20+ Year Treasury
+DIG,2x,sector,Energy
+DUG,2x,sector,Energy
+UMDD,2x,index,Mid Cap
+SMDD,2x,index,Mid Cap
+SKYU,2x,sector,Cybersecurity
+UCYB,2x,sector,Cybersecurity
+TSLL,2x,stock,Tesla
+TSLS,2x,stock,Tesla
+NVDL,2x,stock,NVIDIA
+NVDD,2x,stock,NVIDIA
+AAPL,2x,stock,Apple
+AAPD,2x,stock,Apple
+AMUU,2x,stock,AMD
+AMDD,2x,stock,AMD
+MSFU,2x,stock,Microsoft
+MSFD,2x,stock,Microsoft
+METU,2x,stock,Meta
+METD,2x,stock,Meta
+SHPU,2x,stock,Shopify
+SHPD,2x,stock,Shopify
+QCMU,2x,stock,Qualcomm
+QCMD,2x,stock,Qualcomm
+MUU,2x,stock,Micron
+MUD,2x,stock,Micron
+PLTU,2x,stock,Palantir
+PLTD,2x,stock,Palantir
+PALU,2x,stock,Palo Alto Networks
+PALD,2x,stock,Palo Alto Networks
+LMTL,2x,stock,Lockheed Martin
+LMTS,2x,stock,Lockheed Martin
+ELIL,2x,stock,Eli Lilly
+ELIS,2x,stock,Eli Lilly
+GGLL,2x,stock,Google
+GGLS,2x,stock,Google
+AVL,2x,stock,Broadcom
+AVS,2x,stock,Broadcom
+BITU,2x,crypto,Bitcoin
+SBIT,2x,crypto,Bitcoin
+ETHT,2x,crypto,Ethereum
+ETHD,2x,crypto,Ethereum
+UCO,2x,commodity,Oil
+SCO,2x,commodity,Oil
+BOIL,2x,commodity,Natural Gas
+KOLD,2x,commodity,Natural Gas
+XLF,1x,sector,Financials
+XLE,1x,sector,Energy
+XLK,1x,sector,Technology
+XLV,1x,sector,Healthcare
+XLI,1x,sector,Industrials
+XLY,1x,sector,Consumer Discretionary
+XLP,1x,sector,Consumer Staples
+XLRE,1x,sector,Real Estate
+XLU,1x,sector,Utilities
+BTGD,1x,hybrid,Bitcoin + Gold
+BITX,2x,crypto,Bitcoin
+UXRP,2x,crypto,XRP
+USD,1x,currency,US Dollar

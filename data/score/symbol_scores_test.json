@@ -1,0 +1,117 @@
+{
+  "symbol_trades": {
+    "TQQQ": [
+      {
+        "symbol": "TQQQ",
+        "trade_size": 1000.0,
+        "profit_loss": 50.0,
+        "prime_score": 5.0,
+        "timestamp": "2025-09-17T10:14:16.818573",
+        "trade_id": "TQQQ_001",
+        "strategy_mode": "test",
+        "confidence": 0.95
+      },
+      {
+        "symbol": "TQQQ",
+        "trade_size": 1000.0,
+        "profit_loss": 75.0,
+        "prime_score": 7.5,
+        "timestamp": "2025-09-17T10:14:16.818585",
+        "trade_id": "TQQQ_002",
+        "strategy_mode": "test",
+        "confidence": 0.95
+      }
+    ],
+    "SPY": [
+      {
+        "symbol": "SPY",
+        "trade_size": 2000.0,
+        "profit_loss": 100.0,
+        "prime_score": 5.0,
+        "timestamp": "2025-09-17T10:14:16.818591",
+        "trade_id": "SPY_001",
+        "strategy_mode": "test",
+        "confidence": 0.95
+      },
+      {
+        "symbol": "SPY",
+        "trade_size": 2000.0,
+        "profit_loss": -50.0,
+        "prime_score": -2.5,
+        "timestamp": "2025-09-17T10:14:16.818596",
+        "trade_id": "SPY_002",
+        "strategy_mode": "test",
+        "confidence": 0.95
+      }
+    ],
+    "QQQ": [
+      {
+        "symbol": "QQQ",
+        "trade_size": 1500.0,
+        "profit_loss": 90.0,
+        "prime_score": 6.0,
+        "timestamp": "2025-09-17T10:14:16.818599",
+        "trade_id": "QQQ_001",
+        "strategy_mode": "test",
+        "confidence": 0.95
+      }
+    ]
+  },
+  "symbol_ranks": {
+    "TQQQ": {
+      "symbol": "TQQQ",
+      "avg_prime_score": 6.25,
+      "total_trades": 2,
+      "profitable_trades": 2,
+      "win_rate": 100.0,
+      "total_profit": 125.0,
+      "avg_trade_size": 1000.0,
+      "last_updated": "2025-09-17T10:14:16.818613",
+      "recent_prime_scores": [
+        5.0,
+        7.5
+      ]
+    },
+    "SPY": {
+      "symbol": "SPY",
+      "avg_prime_score": 1.25,
+      "total_trades": 2,
+      "profitable_trades": 1,
+      "win_rate": 50.0,
+      "total_profit": 50.0,
+      "avg_trade_size": 2000.0,
+      "last_updated": "2025-09-17T10:14:16.818624",
+      "recent_prime_scores": [
+        5.0,
+        -2.5
+      ]
+    },
+    "QQQ": {
+      "symbol": "QQQ",
+      "avg_prime_score": 6.0,
+      "total_trades": 1,
+      "profitable_trades": 1,
+      "win_rate": 100.0,
+      "total_profit": 90.0,
+      "avg_trade_size": 1500.0,
+      "last_updated": "2025-09-17T10:14:16.818631",
+      "recent_prime_scores": [
+        6.0
+      ]
+    }
+  },
+  "system_stats": {
+    "total_trades": 5,
+    "total_symbols": 3,
+    "last_updated": "2025-09-17T10:14:16.818650",
+    "data_file": "data/symbol_scores.json"
+  },
+  "metadata": {
+    "version": "2.0",
+    "created": "2025-09-17T10:14:16.818652",
+    "description": "Prime Symbol Score System - Performance tracking for trading symbols",
+    "prime_score_formula": "(Profit \u00d7 100) \u00f7 Trade Size",
+    "rolling_average_trades": 200,
+    "backup_interval": 100
+  }
+}

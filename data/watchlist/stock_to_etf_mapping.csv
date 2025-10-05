@@ -1,0 +1,35 @@
+stock_symbol,primary_etf,leverage,alternative_etf,leverage_alt,priority,description
+TSLA,TSLL,3x,TQQQ,3x,Ultra High,Tesla -> 3x Tesla ETF or 3x QQQ
+NVDA,NVDL,3x,SOXL,3x,Ultra High,NVIDIA -> 3x NVIDIA ETF or 3x Semiconductor
+MSFT,MSFU,3x,TQQQ,3x,Ultra High,Microsoft -> 3x Microsoft ETF or 3x QQQ
+GOOGL,GOOGL2L,3x,TQQQ,3x,Ultra High,Google -> 3x Google ETF or 3x QQQ
+AAPL,AAPL,3x,TQQQ,3x,Ultra High,Apple -> 3x Apple ETF or 3x QQQ
+AMZN,AMUU,3x,TQQQ,3x,Ultra High,Amazon -> 3x Amazon ETF or 3x QQQ
+META,METU,3x,TQQQ,3x,Ultra High,Meta -> 3x Meta ETF or 3x QQQ
+NFLX,NFXL,3x,TQQQ,3x,Ultra High,Netflix -> 3x Netflix ETF or 3x QQQ
+AMD,SOXL,3x,TQQQ,3x,High,AMD -> 3x Semiconductor ETF or 3x QQQ
+INTC,SOXL,3x,TQQQ,3x,High,Intel -> 3x Semiconductor ETF or 3x QQQ
+AVGO,SOXL,3x,TQQQ,3x,High,AVGO -> 3x Semiconductor ETF or 3x QQQ
+MU,SOXL,3x,TQQQ,3x,High,Micron -> 3x Semiconductor ETF or 3x QQQ
+XLNX,SOXL,3x,TQQQ,3x,High,Xilinx -> 3x Semiconductor ETF or 3x QQQ
+JPM,FAS,3x,UPRO,3x,High,JPMorgan -> 3x Financial ETF or 3x S&P 500
+BAC,FAS,3x,UPRO,3x,High,Bank of America -> 3x Financial ETF or 3x S&P 500
+WFC,FAS,3x,UPRO,3x,High,Wells Fargo -> 3x Financial ETF or 3x S&P 500
+GS,FAS,3x,UPRO,3x,High,Goldman Sachs -> 3x Financial ETF or 3x S&P 500
+XOM,ERX,3x,UPRO,3x,High,Exxon -> 3x Energy ETF or 3x S&P 500
+CVX,ERX,3x,UPRO,3x,High,Chevron -> 3x Energy ETF or 3x S&P 500
+COP,ERX,3x,UPRO,3x,High,ConocoPhillips -> 3x Energy ETF or 3x S&P 500
+SLB,ERX,3x,UPRO,3x,High,Schlumberger -> 3x Energy ETF or 3x S&P 500
+SPY,UPRO,3x,SSO,2x,High,S&P 500 -> 3x S&P 500 ETF or 2x S&P 500
+QQQ,TQQQ,3x,QLD,2x,High,Nasdaq-100 -> 3x QQQ ETF or 2x QQQ
+IWM,TNA,3x,URTY,2x,High,Russell 2000 -> 3x Small Cap ETF or 2x Small Cap
+DIA,UDOW,2x,DDM,2x,Medium,Dow Jones -> 2x Dow ETF
+XLF,FAS,3x,UPRO,3x,High,Financial Sector -> 3x Financial ETF
+XLE,ERX,3x,UPRO,3x,High,Energy Sector -> 3x Energy ETF
+XLK,TECL,3x,TQQQ,3x,High,Technology Sector -> 3x Tech ETF or 3x QQQ
+XLV,UPRO,3x,SSO,2x,Medium,Healthcare Sector -> 3x S&P 500 or 2x S&P 500
+XLI,UPRO,3x,SSO,2x,Medium,Industrial Sector -> 3x S&P 500 or 2x S&P 500
+XLY,UPRO,3x,SSO,2x,Medium,Consumer Discretionary -> 3x S&P 500 or 2x S&P 500
+XLP,UPRO,3x,SSO,2x,Medium,Consumer Staples -> 3x S&P 500 or 2x S&P 500
+XLRE,URE,2x,UPRO,3x,Medium,Real Estate -> 2x Real Estate ETF or 3x S&P 500
+XLU,UPRO,3x,SSO,2x,Medium,Utilities -> 3x S&P 500 or 2x S&P 500

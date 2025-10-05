@@ -1,0 +1,276 @@
+{
+  "stock_mapping": {
+    "TSLA": {
+      "primary_etf": "TSLL",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "TSLS",
+      "bear_leverage": "2x",
+      "underlying": "Tesla"
+    },
+    "NVDA": {
+      "primary_etf": "NVDL",
+      "leverage": "2x",
+      "alternative_etf": "SOXL",
+      "alternative_leverage": "3x",
+      "bear_etf": "NVDD",
+      "bear_leverage": "2x",
+      "underlying": "NVIDIA"
+    },
+    "AAPL": {
+      "primary_etf": "AAPL",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "AAPD",
+      "bear_leverage": "2x",
+      "underlying": "Apple"
+    },
+    "AMZN": {
+      "primary_etf": "AMUU",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "AMDD",
+      "bear_leverage": "2x",
+      "underlying": "Amazon"
+    },
+    "MSFT": {
+      "primary_etf": "MSFU",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "MSFD",
+      "bear_leverage": "2x",
+      "underlying": "Microsoft"
+    },
+    "META": {
+      "primary_etf": "METU",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "METD",
+      "bear_leverage": "2x",
+      "underlying": "Meta"
+    },
+    "AMD": {
+      "primary_etf": "AMUU",
+      "leverage": "2x",
+      "alternative_etf": "SOXL",
+      "alternative_leverage": "3x",
+      "bear_etf": "AMDD",
+      "bear_leverage": "2x",
+      "underlying": "AMD"
+    },
+    "GOOGL": {
+      "primary_etf": "GGLL",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "GGLS",
+      "bear_leverage": "2x",
+      "underlying": "Google"
+    },
+    "AVGO": {
+      "primary_etf": "AVL",
+      "leverage": "2x",
+      "alternative_etf": "SOXL",
+      "alternative_leverage": "3x",
+      "bear_etf": "AVS",
+      "bear_leverage": "2x",
+      "underlying": "Broadcom"
+    }
+  },
+  "index_mapping": {
+    "SPY": {
+      "primary_etf": "UPRO",
+      "leverage": "3x",
+      "alternative_etf": "SPXL",
+      "alternative_leverage": "3x",
+      "bear_etf": "SPXU",
+      "bear_leverage": "3x",
+      "underlying": "S&P 500"
+    },
+    "QQQ": {
+      "primary_etf": "TQQQ",
+      "leverage": "3x",
+      "alternative_etf": "QLD",
+      "alternative_leverage": "2x",
+      "bear_etf": "SQQQ",
+      "bear_leverage": "3x",
+      "underlying": "Nasdaq-100"
+    },
+    "IWM": {
+      "primary_etf": "TNA",
+      "leverage": "3x",
+      "alternative_etf": "URTY",
+      "alternative_leverage": "3x",
+      "bear_etf": "TZA",
+      "bear_leverage": "3x",
+      "underlying": "Small Cap Stocks"
+    },
+    "DIA": {
+      "primary_etf": "UDOW",
+      "leverage": "3x",
+      "alternative_etf": "DDM",
+      "alternative_leverage": "2x",
+      "bear_etf": "SDOW",
+      "bear_leverage": "3x",
+      "underlying": "Dow Jones"
+    },
+    "MAGNIFICENT_7": {
+      "primary_etf": "QQQU",
+      "leverage": "2x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "QQQD",
+      "bear_leverage": "2x",
+      "underlying": "Magnificent 7"
+    },
+    "MID_CAP": {
+      "primary_etf": "UMDD",
+      "leverage": "2x",
+      "alternative_etf": "MIDU",
+      "alternative_leverage": "3x",
+      "bear_etf": "SMDD",
+      "bear_leverage": "2x",
+      "underlying": "Mid Cap"
+    }
+  },
+  "sector_mapping": {
+    "TECHNOLOGY": {
+      "primary_etf": "TECL",
+      "leverage": "3x",
+      "alternative_etf": "TQQQ",
+      "alternative_leverage": "3x",
+      "bear_etf": "TECS",
+      "bear_leverage": "3x",
+      "underlying": "Technology"
+    },
+    "FINANCIAL": {
+      "primary_etf": "FAS",
+      "leverage": "3x",
+      "alternative_etf": "DPST",
+      "alternative_leverage": "3x",
+      "bear_etf": "FAZ",
+      "bear_leverage": "3x",
+      "underlying": "Financials"
+    },
+    "ENERGY": {
+      "primary_etf": "ERX",
+      "leverage": "2x",
+      "alternative_etf": "GUSH",
+      "alternative_leverage": "3x",
+      "bear_etf": "ERY",
+      "bear_leverage": "2x",
+      "underlying": "Energy"
+    },
+    "HEALTHCARE": {
+      "primary_etf": "CURE",
+      "leverage": "3x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "N/A",
+      "bear_leverage": "N/A",
+      "underlying": "Healthcare"
+    },
+    "GOLD_MINERS": {
+      "primary_etf": "GDXU",
+      "leverage": "3x",
+      "alternative_etf": "NUGT",
+      "alternative_leverage": "2x",
+      "bear_etf": "GDXD",
+      "bear_leverage": "3x",
+      "underlying": "Gold Miners"
+    },
+    "SEMICONDUCTORS": {
+      "primary_etf": "SOXL",
+      "leverage": "3x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "SOXS",
+      "bear_leverage": "3x",
+      "underlying": "Semiconductors"
+    }
+  },
+  "crypto_mapping": {
+    "BTC": {
+      "primary_etf": "BITU",
+      "leverage": "2x",
+      "alternative_etf": "BTGD",
+      "alternative_leverage": "1x",
+      "bear_etf": "SBIT",
+      "bear_leverage": "2x",
+      "underlying": "Bitcoin"
+    },
+    "ETH": {
+      "primary_etf": "ETHT",
+      "leverage": "2x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "ETHD",
+      "bear_leverage": "2x",
+      "underlying": "Ethereum"
+    },
+    "XRP": {
+      "primary_etf": "UXRP",
+      "leverage": "1x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "N/A",
+      "bear_leverage": "N/A",
+      "underlying": "XRP"
+    }
+  },
+  "commodity_mapping": {
+    "OIL": {
+      "primary_etf": "UCO",
+      "leverage": "2x",
+      "alternative_etf": "GUSH",
+      "alternative_leverage": "3x",
+      "bear_etf": "SCO",
+      "bear_leverage": "2x",
+      "underlying": "Oil"
+    },
+    "NATURAL_GAS": {
+      "primary_etf": "BOIL",
+      "leverage": "2x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "KOLD",
+      "bear_leverage": "2x",
+      "underlying": "Natural Gas"
+    },
+    "GOLD": {
+      "primary_etf": "UGL",
+      "leverage": "2x",
+      "alternative_etf": "NUGT",
+      "alternative_leverage": "2x",
+      "bear_etf": "GLL",
+      "bear_leverage": "2x",
+      "underlying": "Gold"
+    }
+  },
+  "currency_mapping": {
+    "USD": {
+      "primary_etf": "USD",
+      "leverage": "1x",
+      "alternative_etf": "N/A",
+      "alternative_leverage": "N/A",
+      "bear_etf": "N/A",
+      "bear_leverage": "N/A",
+      "underlying": "US Dollar"
+    }
+  },
+  "news_sentiment_keywords": {
+    "Small Cap Stocks": ["small cap", "small cap stocks", "small companies", "growth stocks", "russell 2000"],
+    "Magnificent 7": ["magnificent 7", "m7", "apple", "microsoft", "google", "amazon", "meta", "tesla", "nvidia"],
+    "Mid Cap": ["mid cap", "mid cap stocks", "mid sized companies", "growth", "value"],
+    "AMD": ["amd", "advanced micro devices", "semiconductors", "gpu", "cpu", "gaming", "data center"],
+    "Google": ["google", "alphabet", "googl", "search", "youtube", "android", "cloud", "ai"],
+    "Broadcom": ["broadcom", "avgo", "semiconductors", "chips", "networking", "infrastructure"],
+    "Bitcoin": ["bitcoin", "btc", "crypto", "cryptocurrency", "blockchain", "digital currency"],
+    "Ethereum": ["ethereum", "eth", "crypto", "cryptocurrency", "blockchain", "smart contracts"]
+  }
+}

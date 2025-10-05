@@ -1,0 +1,18 @@
+{
+  "symbol_trades": {},
+  "symbol_ranks": {},
+  "system_stats": {
+    "total_trades": 0,
+    "total_symbols": 0,
+    "last_updated": null,
+    "data_file": "data/symbol_scores.json"
+  },
+  "metadata": {
+    "version": "2.0",
+    "created": "2025-01-27T00:00:00Z",
+    "description": "Prime Symbol Score System - Performance tracking for trading symbols",
+    "prime_score_formula": "(Profit × 100) ÷ Trade Size",
+    "rolling_average_trades": 200,
+    "backup_interval": 100
+  }
+}
