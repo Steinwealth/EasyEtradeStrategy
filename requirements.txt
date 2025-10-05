@@ -1,0 +1,113 @@
+# ========================
+# Easy ETrade Strategy
+# ========================
+
+# Requirements
+
+# === Core runtime ===
+pandas>=2.0.3
+numpy>=1.25.0
+scipy>=1.11.0
+python-dateutil>=2.8.2
+cachetools>=5.3.0
+
+# === HTTP & OAuth ===
+requests>=2.31.0
+requests-oauthlib>=1.3.1
+urllib3>=2.0.4
+cryptography>=41.0.0  # Required for OAuth and Secret Manager
+
+# === Data providers ===
+yfinance>=0.2.28
+websockets>=11.0.3,<15.0   # if you later enable Polygon websocket
+beautifulsoup4>=4.12.2  # for optional Finviz scrape
+lxml>=4.9.3             # speeds up Finviz parsing
+
+# === News & Sentiment Analysis ===
+vaderSentiment>=3.3.2  # VADER sentiment analysis
+polygon-api-client>=1.12.0  # Polygon.io API client
+finnhub-python>=2.4.18  # Finnhub API client
+newsapi-python>=0.2.6  # NewsAPI client
+
+# === Time & Scheduling ===
+pytz>=2023.3  # Timezone handling
+schedule>=1.2.0  # Task scheduling
+croniter>=1.4.1  # Cron expression parsing
+holidays>=0.34  # US market holidays
+hijri-converter>=2.3.1  # Islamic calendar conversion
+
+# === Google Cloud Platform ===
+google-cloud-secret-manager>=2.16.4  # Secret Manager
+google-cloud-pubsub>=2.18.4  # Pub/Sub messaging
+google-cloud-logging>=3.8.0  # Cloud Logging
+google-cloud-monitoring>=2.16.0  # Cloud Monitoring
+
+# === Async / Concurrency ===
+aiohttp>=3.9.1
+tenacity>=8.2.3        # retries with backoff
+
+# === Performance Optimization ===
+redis>=4.5.0
+redis[hiredis]>=4.5.0
+redis[asyncio]>=4.5.0
+aioredis>=2.0.0
+psutil>=5.9.0
+
+# === High-Performance Dependencies ===
+# Memory monitoring and profiling
+py-spy>=0.3.14
+memory-profiler>=0.60.0
+
+# Data compression and serialization
+# gzip is built-in Python module
+lz4>=4.0.0
+zstandard>=0.19.0
+orjson>=3.8.0
+msgpack>=1.0.0
+
+# Parallel processing and optimization
+# concurrent.futures is built-in Python module
+multiprocessing-logging>=0.3.4
+threadpoolctl>=3.1.0
+
+# Advanced caching and storage
+diskcache>=5.4.0
+lmdb>=1.4.0
+
+# Performance monitoring and metrics
+prometheus-client>=0.17.1
+grafana-api>=1.0.3
+py-cpuinfo>=9.0.0
+GPUtil>=1.4.0
+
+# Fast JSON and CSV processing
+ujson>=5.7.0
+simplejson>=3.19.0
+csvkit>=1.0.7
+
+# Optional high-performance dependencies
+httpx>=0.24.0
+httpx[http2]>=0.24.0
+asyncpg>=0.28.0
+aiomysql>=0.1.1
+aiokafka>=0.8.0
+
+# System optimization
+setproctitle>=1.3.0
+structlog>=23.1.0
+loguru>=0.7.0
+
+# === Logging & Monitoring ===
+fastapi>=0.104.1
+uvicorn[standard]>=0.23.2
+
+# === Telegram Integration ===
+python-telegram-bot>=20.7  # Telegram Bot API
+
+# === Deployment helpers ===
+gunicorn>=21.2.0
+docker>=6.1.3  # Docker integration
+
+# === Testing ===
+pytest>=7.4.0
+pytest-asyncio>=0.21.1  # Async testing support
